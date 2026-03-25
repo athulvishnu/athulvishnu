@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athulvishnu&label=Profile%20views&color=0e75b6&style=flat" alt="athulvishnu" /> </p>
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Terraform**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
